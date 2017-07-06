@@ -1,0 +1,7 @@
+//yarn add eslint-config-rallycoding --dev
+{
+    "extends": "rallycoding",
+    "rules": {
+        "no-useless-concat": "off"
+    }
+}
